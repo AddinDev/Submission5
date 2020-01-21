@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="tab_movies">Movies</string>
+    <string name="tab_tv_shows">TV Show</string>
+    <string name="title_activity_main">Movie Catalogue</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="title">Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="vote">Vote</string>
+    <string name="original_language">Original Language</string>
+    <string name="failure">Failure</string>
+    <string name="title_activity_main_bot_nav">Movie Catalogue</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tv_show">TV Show</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="tab_favorites">Favorite</string>
+    <string name="favorite_movies_is_empty">Favorite Movies is empty!</string>
+    <string name="favorite_tv_show_is_empty">Favorite TV Show is empty!</string>
+    <string name="favorite_success_add_movie">Successfully add movie to Favorite!</string>
+    <string name="favorite_success_remove_movie">Successfuly remove movie from favorite!</string>
+    <string name="favorite_success_remove_tv_show">Successfuly remove TV Show from favorite!</string>
+    <string name="favorite_success_add_tv_show">Successfully add TV Show to Favorite!</string>
+    <string name="txt_search_movie">Search</string>
+    <string name="search_results">Results for</string>
+    <string name="message_no_results">No results for</string>
+    <string name="txt_appwidget">Favorite Widget</string>
+    <string name="txt_repeat_notif">Come on check for new Movies!</string>
+    <string name="txt_setting">Settings</string>
+    <string name="key_daily_notification">keyDailyNotif</string>
+    <string name="key_release_movie">keyReleaseMovie</string>
+    <string name="txt_notifications">Notification Settings</string>
+    <string name="key_setting_language">keySettingLanguage</string>
+    <string name="txt_language">Language Setting</string>
+    <string name="daily_release_reminder">Daily movie release reminder has been set up!</string>
+    <string name="daily_open_reminder">Daily open app reminder has been set up!</string>
+</resources>

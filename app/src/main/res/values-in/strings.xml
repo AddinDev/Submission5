@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">"Katalog Film"</string>
+
+    <string name="tab_movies">"Film"</string>
+    <string name="tab_tv_shows">"Acara TV"</string>
+    <string name="title_activity_main">"Katalog Film"</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="title">Judul</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="vote">Penilaian</string>
+    <string name="original_language">Bahasa Asal</string>
+    <string name="failure">Kesalahan</string>
+    <string name="tab_favorites">Favorit</string>
+    <string name="title_activity_main_bot_nav">Katalog Film</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv_show">Tayangan TV</string>
+    <string name="favorite_movies_is_empty">Film Favorit kosong!</string>
+    <string name="favorite_tv_show_is_empty">Tayangan TV Favorit kosong!</string>
+    <string name="favorite_success_add_movie">Berhasil menambahkan film ke favorit!</string>
+    <string name="favorite_success_remove_movie">Berhasil menghapus film dari favorit!</string>
+    <string name="favorite_success_remove_tv_show">Berhasil menghapus tayangan TV dari favorit!</string>
+    <string name="favorite_success_add_tv_show">Berhasil menambahkan tayangan TV ke favorit!</string>
+    <string name="txt_search_movie">Pencarian</string>
+    <string name="search_results">Hasil untuk</string>
+    <string name="message_no_results">Tidak ada hasil untuk</string>
+    <string name="txt_appwidget">Widget Favorit</string>
+    <string name="txt_repeat_notif">Ayo cek film baru!</string>
+    <string name="txt_setting">Pengaturan</string>
+    <string name="key_daily_notification">keyDailyNotif</string>
+    <string name="key_release_movie">keyReleaseMovie</string>
+    <string name="txt_notifications">Pengaturan Pemberitahuan</string>
+    <string name="key_setting_language">keySettingLanguage</string>
+    <string name="txt_language">Pengaturan Bahasa</string>
+    <string name="daily_release_reminder">Daily movie release reminder has been set up!</string>
+    <string name="daily_open_reminder">Daily open app reminder has been set up!</string>
+</resources>
